@@ -2,11 +2,12 @@
 
 ## Hi Everyone! 😁
 My name is Taras. I am glad that there is such an opportunity to get on an interesting course and meet nice people.
+![Strong cat](./assets/image/strong_cat.jpg)
 
 ---
 ## Linux CLI, and HTTP
 Linux Survival convenient and pleasant assistant for training a new team.
-![Strong cat](./assets/image/strong_cat.jpg)
+![Screenshot](./task_linux_cli/image_2022-07-20_20-39-45.png)
 
 Indirectly was acquainted and was not aware in most teams. For me, this is a good lesson and new knowledge, which will be very useful in the future.
 This folder task_linux _cli contains screenshots of the execution of Quiz.
