@@ -10,7 +10,7 @@ Linux Survival convenient and pleasant assistant for training a new team.
 ![Screenshot](./task_linux_cli/image_2022-07-20_20-39-45.png)
 
 Indirectly was acquainted and was not aware in most teams. For me, this is a good lesson and new knowledge, which will be very useful in the future.
-This folder [task_linux_cli](/DarkSoulH/kottans-frontend/tree/production/task_linux_cli) contains screenshots of the execution of Quiz.
+This folder [task_linux_cli](/DarkSoulH/kottans-frontend/blob/production/task_linux_cli) contains screenshots of the execution of Quiz.
 
 ---
 Enough useful information for the initial foundation of a web developer. I have read and will use this information in the future.
@@ -22,7 +22,7 @@ Enough useful information for the initial foundation of a web developer. I have 
 ---
 ## Git Collaboration
 
-[Git simulator](/DarkSoulH/kottans-frontend/tree/production/task_git_collaboration) is a great example for learning and improving personal and team skills.
+[Git simulator](https://learngitbranching.js.org/?locale=ukgit) is a great example for learning and improving personal and team skills.
 
 ![Screenshot](./task_git_collaboration/image_2022-07-21_15-10-16.png)
 
