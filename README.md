@@ -43,7 +43,7 @@ GitHub and Git is quite easy to use and after familiarization, you can actually 
 
 ---
 ## Intro to HTML and CSS
-Screenshots with completed tasks are in this folder [task_html_css_intro]()
+Screenshots with completed tasks are in this folder [task_html_css_intro](https://github.com/DarkSoulH/kottans-frontend/tree/production/task_html_css_intro)
 
 From these three points I determined for myself:
 1. Very convenient and structured tutorial html and css for beginners. Everything is accessible and understandable for further advancement.
