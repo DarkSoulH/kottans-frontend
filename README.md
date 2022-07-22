@@ -39,4 +39,13 @@ Enough useful information for the initial foundation of a web developer. I have 
 2. More in-depth study of commands git fetch/git push and a detailed understanding of what their difference is.
 
 
-GitHub and Git is quite easy to use and after familiarization, you can actually work with it right away, especially simplifies teamwork. 
+GitHub and Git is quite easy to use and after familiarization, you can actually work with it right away, especially simplifies teamwork.
+
+---
+## Intro to HTML and CSS
+Screenshots with completed tasks are in this folder [task_html_css_intro]()
+
+From these three points I determined for myself:
+1. Very convenient and structured tutorial html and css for beginners. Everything is accessible and understandable for further advancement.
+2. Repeated the basic concepts of writing tags and page markup.
+3. Repeated the basic concepts of writing styles for tags, the correct connection and use of these styles for html pages.
