@@ -52,7 +52,7 @@ From these three points I determined for myself:
 
 ---
 ## Responsive Web Design
-It was interesting and useful to consider the properties of the containers given above on the assignment. Screenshots of the execution can be seen at this link[task_responsive_web_design]().
+It was interesting and useful to consider the properties of the containers given above on the assignment. Screenshots of the execution can be seen at this link [task_responsive_web_design](https://github.com/DarkSoulH/kottans-frontend/tree/production/task_responsive_web_design).
 
 1. In this article, I got acquainted with the basics of responsive web design. I took note of the logic for the correct construction of my old man.
 2. In these video tutorials, I got acquainted with the use of the properties of the flex container. Visual application in a real project, very interesting.
