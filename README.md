@@ -43,9 +43,19 @@ GitHub and Git is quite easy to use and after familiarization, you can actually 
 
 ---
 ## Intro to HTML and CSS
-Screenshots with completed tasks are in this folder [task_html_css_intro](https://github.com/DarkSoulH/kottans-frontend/tree/production/task_html_css_intro)
+Screenshots with completed tasks are in this folder [task_html_css_intro](https://github.com/DarkSoulH/kottans-frontend/tree/production/task_html_css_intro).
 
 From these three points I determined for myself:
 1. Very convenient and structured tutorial html and css for beginners. Everything is accessible and understandable for further advancement.
 2. Repeated the basic concepts of writing tags and page markup.
 3. Repeated the basic concepts of writing styles for tags, the correct connection and use of these styles for html pages.
+
+---
+## Responsive Web Design
+It was interesting and useful to consider the properties of the containers given above on the assignment. Screenshots of the execution can be seen at this link[task_responsive_web_design]().
+
+1. In this article, I got acquainted with the basics of responsive web design. I took note of the logic for the correct construction of my old man.
+2. In these video tutorials, I got acquainted with the use of the properties of the flex container. Visual application in a real project, very interesting.
+3. Very interactive interactive for practical assimilation of the properties of the flex container.
+4. Clear and understandable explanation CSS Grid Layout. 
+5. I repeated the properties of the grid constructor. Used in practice these properties in this simulator.
