@@ -10,7 +10,7 @@ Linux Survival convenient and pleasant assistant for training a new team.
 ![Screenshot](./task_linux_cli/image_2022-07-20_20-39-45.png)
 
 Indirectly was acquainted and was not aware in most teams. For me, this is a good lesson and new knowledge, which will be very useful in the future.
-This folder [task_linux_cli](https://github.com/DarkSoulH/kottans-frontend/tree/production/task_git_collaboration) contains screenshots of the execution of Quiz.
+This folder [task_linux_cli](https://github.com/DarkSoulH/kottans-frontend/tree/production/task_linux_cli) contains screenshots of the execution of Quiz.
 
 ---
 Enough useful information for the initial foundation of a web developer. I have read and will use this information in the future.
@@ -39,7 +39,7 @@ Enough useful information for the initial foundation of a web developer. I have 
 2. More in-depth study of commands git fetch/git push and a detailed understanding of what their difference is.
 
 
-GitHub and Git is quite easy to use and after familiarization, you can actually work with it right away, especially simplifies teamwork.
+[GitHub and Git](https://github.com/DarkSoulH/kottans-frontend/tree/production/task_git_collaboration) is quite easy to use and after familiarization, you can actually work with it right away, especially simplifies teamwork.
 
 ---
 ## Intro to HTML and CSS
@@ -56,6 +56,11 @@ It was interesting and useful to consider the properties of the containers given
 
 1. In this article, I got acquainted with the basics of responsive web design. I took note of the logic for the correct construction of my old man.
 2. In these video tutorials, I got acquainted with the use of the properties of the flex container. Visual application in a real project, very interesting.
+
+![Screenshot](./task_responsive_web_design/froggy.png)
+
 3. Very interactive interactive for practical assimilation of the properties of the flex container.
 4. Clear and understandable explanation CSS Grid Layout. 
 5. I repeated the properties of the grid constructor. Used in practice these properties in this simulator.
+
+![Screenshot](./task_responsive_web_design/grid_garden.png)
