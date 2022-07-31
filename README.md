@@ -12,7 +12,6 @@ Linux Survival convenient and pleasant assistant for training a new team.
 Indirectly was acquainted and was not aware in most teams. For me, this is a good lesson and new knowledge, which will be very useful in the future.
 This folder [task_linux_cli](https://github.com/DarkSoulH/kottans-frontend/tree/production/task_linux_cli) contains screenshots of the execution of Quiz.
 
----
 Enough useful information for the initial foundation of a web developer. I have read and will use this information in the future.
 
 1. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177).
@@ -70,6 +69,6 @@ It was interesting and useful to consider the properties of the containers given
 In this task, I practiced with correctly lined up blocks and using the checkbox in my popup.
 You can see my app behind this message:
 
-[Demo](https://darksoulh.github.io/Hooli-style-Popup/)
+- [Demo](https://darksoulh.github.io/Hooli-style-Popup/)
 
-[Code Base](https://github.com/DarkSoulH/Hooli-style-Popup/tree/main/assets)
+- [Code Base](https://github.com/DarkSoulH/Hooli-style-Popup/tree/main/assets)
