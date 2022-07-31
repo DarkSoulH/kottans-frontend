@@ -64,3 +64,12 @@ It was interesting and useful to consider the properties of the containers given
 5. I repeated the properties of the grid constructor. Used in practice these properties in this simulator.
 
 ![Screenshot](./task_responsive_web_design/grid_garden.png)
+
+---
+## Hooli-style Popup
+In this task, I practiced with correctly lined up blocks and using the checkbox in my popup.
+You can see my app behind this message:
+
+[Demo](https://darksoulh.github.io/Hooli-style-Popup/)
+
+[Code Base](https://github.com/DarkSoulH/Hooli-style-Popup/tree/main/assets)
